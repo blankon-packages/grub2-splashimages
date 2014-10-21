@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+  
+include /usr/share/cdbs/1/rules/debhelper.mk
+
+SPLASH_DIR := /usr/share/images/grub/
+
+install/grub2-splashimages::
+	install -d debian/$(cdbs_curpkg)/$(SPLASH_DIR)
+	install -m 644 *.tga debian/$(cdbs_curpkg)/$(SPLASH_DIR)

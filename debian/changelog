@@ -1,0 +1,20 @@
+grub2-splashimages (1.0.1+blankon1) suroboyo-updates; urgency=medium
+
+  * New upload in suroboyo
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Tue, 21 Oct 2014 13:27:20 +0700
+
+grub2-splashimages (1.0.1) unstable; urgency=low
+
+  * Updated installation instruction (Closes: #509778, #534210, #565872)
+  * Removed reference to the versionless symlink in /usr/share/common-licenses
+  * Bumped Standards-Version to 3.8.4
+  * Add ${misc:Depends} to dependencies
+
+ -- Krzysztof Burghardt <krzysztof@burghardt.pl>  Sat, 20 Mar 2010 17:36:42 +0100
+
+grub2-splashimages (1.0.0) unstable; urgency=low
+
+  * Initial release (Closes: #462584)
+
+ -- Krzysztof Burghardt <krzysztof@burghardt.pl>  Sun, 27 Jan 2008 17:00:35 +0100
