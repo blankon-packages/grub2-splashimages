@@ -1,3 +1,9 @@
+grub2-splashimages (1.0.1+blankon2) tambora; urgency=medium
+
+  * upload to tambora
+
+ -- Syai Mif <syaimif@di.blankon.in>  Sun, 31 May 2015 09:09:37 +0700
+
 grub2-splashimages (1.0.1+blankon1) suroboyo-updates; urgency=medium
 
   * New upload in suroboyo
