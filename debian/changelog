@@ -1,3 +1,9 @@
+grub2-splashimages (1.0.1+blankon3) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Mon, 06 Nov 2017 12:31:38 +0800
+
 grub2-splashimages (1.0.1+blankon2) tambora; urgency=medium
 
   * upload to tambora
